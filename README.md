@@ -3,7 +3,7 @@ A mobile FinTech application prototype designed with Figma for a software engine
 This is a university group project for **PROG 102 – Principles of Software Engineering** at Limkokwing University.
 
 👥 Team Members
-- James Mansaray (UI/UX Team)
+- James Mansaray (UI/UX Lead)
 - Mariama Seray Sow (System Architect)
 - Ibrahim K. Kamara (Team Lead)
 
